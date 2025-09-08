@@ -47,7 +47,7 @@ This project addresses these pain points through **data-driven dashboards** that
 
 ## 📊 Dashboard Overview  
 
-I designed **3 Dashboards** for a complete analysis:  
+I designed **3 Dashboards** for a complete analysis: 
 
 ---
 
