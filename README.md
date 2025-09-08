@@ -129,6 +129,8 @@ SELECT
  COUNT(id) AS Good_Loan_Percentage
 FROM bank_loan_data;
 
+---
+
 ➡️ **[Full SQL Queries Here](./Query%20Doc.docx)**  
 
 ---
