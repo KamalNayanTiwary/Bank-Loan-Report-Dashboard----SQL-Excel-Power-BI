@@ -97,19 +97,33 @@ This dashboard answers: *“Where are the opportunities & risks?”*
 
 ---
 
-### 3️⃣ Details Dashboard – **Loan-Level Drilldown**
-![Details  Dashboard](Screenshot1.png)  
+### 3️⃣ Details Dashboard – **Loan-Level Drilldown**  
+![Details Dashboard](Screenshot3.png)  
 
-A **tabular view** with filters for:  
-- State, Loan Grade, Good vs Bad Loan  
+The **Details Dashboard** provides a **comprehensive tabular view** of all loans in the dataset. It is designed to allow analysts, managers, and auditors to move beyond high-level KPIs and gain **granular visibility** into each loan record.  
 
-**Columns Include:**  
-Loan ID | Purpose | Home Ownership | Grade | Sub Grade | Issue Date | Loan Amount | Interest Rate | Installments | Amount Received  
+🔎 **Filters Available:**  
+- **State** – Narrow analysis to a specific region  
+- **Loan Grade & Sub Grade** – Focus on different risk categories  
+- **Good vs Bad Loan** – Separate high-performing vs risky loans  
+
+📋 **Columns Displayed:**  
+- Loan ID (unique identifier)  
+- Purpose of Loan  
+- Home Ownership (Rent, Mortgage, Own)  
+- Grade & Sub Grade (borrower credit rating)  
+- Issue Date  
+- Loan Amount (principal disbursed)  
+- Interest Rate (%)  
+- Installments (monthly repayment)  
+- Amount Received (to date)  
 
 📌 **Business Value:**  
-- Enables **loan officers & analysts** to drill down into specifics  
-- Allows **auditing & exception management**  
-- Provides **transparency across all loans**  
+- Enables **loan officers & analysts** to drill down into individual borrower records  
+- Facilitates **auditing & compliance checks** by showing all loan details transparently  
+- Helps **risk managers** identify patterns in defaults at a granular level  
+- Acts as a **bridge** between high-level dashboards and raw data tables  
+- Ensures **data transparency** for stakeholders by showing the full loan portfolio in detail  
 
 ---
 
