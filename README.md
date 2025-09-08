@@ -51,49 +51,91 @@ I designed **3 dashboards** for a complete analysis:
 
 ---
 
-### 1️⃣ Summary Dashboard – **Portfolio Health & KPIs**  
+### 1️⃣ Summary Dashboard – **Loan Portfolio at a Glance**  
 ![Summary Dashboard](Screenshot1.png)  
 
-This is the **executive-level view** providing quick answers to: *“How are we performing overall?”*  
+The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loan portfolio. It is designed for senior management, risk officers, and executives who need **instant clarity** on overall performance without going into granular details.  
 
-**Key Metrics (with MTD vs PMTD comparison):**  
-- 📑 **Total Loan Applications:** 38.6K overall | 4.3K this month (**-6.9% MoM**)  
-- 💰 **Total Funded Amount:** ¥435.8M overall | ¥54M this month (**-13% MoM**)  
-- 💵 **Total Amount Received:** ¥473.1M overall | ¥98.1M this month (**-15.8% MoM**)  
-- 📈 **Average Interest Rate:** 12.0% overall | 12.4% this month (**+3.5% MoM**)  
-- 📊 **Average DTI:** 13.3% overall | 13.7% this month (**+2.7% MoM**)  
+📊 **Key Metrics Displayed (MTD vs PMTD):**  
+- **Total Loan Applications** → 38.6K overall, 4.3K this month (⏬ 6.9% MoM)  
+- **Total Funded Amount** → ¥435.8M overall, ¥54.0M this month (⏬ 13.0% MoM)  
+- **Total Amount Received** → ¥473.1M overall, ¥98.1M this month (⏬ 15.8% MoM)  
+- **Average Interest Rate** → 12.0% portfolio average, 12.4% this month (⏫ 3.5% MoM)  
+- **Average DTI** → 13.3% portfolio average, 13.7% this month (⏫ 2.7% MoM)  
 
-**Good vs Bad Loans:**  
-- ✅ Good Loans (Fully Paid + Current) → Higher share → Indicating portfolio strength  
-- ❌ Bad Loans (Charged-Off) → Lower share → Still critical to monitor  
+🟢 **Good vs Bad Loan KPIs:**  
+- Percentage of loans classified as **Good (Current, Fully Paid)** vs **Bad (Charged Off)**  
+- Breakdown of Applications, Funded Amount, and Amount Received by loan quality  
+- Quick assessment of **portfolio health & risk exposure**  
 
-**Loan Status Grid:**  
-- Loan count, repayment, funded amount, Avg Int Rate & Avg DTI → segmented by status  
+📑 **Loan Status Grid:**  
+- Loan Count, Funded Amount, Amount Received, Avg Interest Rate, and Avg DTI  
+- Split across **Current, Fully Paid, and Charged-Off** categories  
+- Enables managers to see **how much of the portfolio is still active vs completed vs defaulted**  
 
 📌 **Business Value:**  
-- Helps executives monitor health **at a glance**  
-- Identifies **declines in applications, funding, and repayments** early  
-- Supports **risk-adjusted decision-making**  
+- Provides a **single-page health check** of the loan portfolio  
+- Highlights **month-over-month growth or decline** across critical KPIs  
+- Helps detect **early warning signs** (e.g., decline in funded amounts, rise in interest rates)  
+- Enables executives to **align lending and risk strategies** based on portfolio performance  
+- Acts as a **starting point** before diving into detailed trend or borrower analysis  
+
+📌 **Sample Insights:**  
+- Loan applications dropped by **6.9%** compared to last month → suggests seasonal or market slowdown  
+- Funded Amount fell faster than Applications (**13% vs 6.9%**) → indicates stricter approvals or higher risk rejection  
+- Avg Interest Rate rose to **12.4%** this month → possible tightening of credit policy  
+- Good Loans still dominate portfolio, but **Charged-Off loans are increasing**, requiring closer monitoring  
 
 ---
 
-### 2️⃣ Overview Dashboard – **Segmentation & Trends**  
+### 2️⃣ Overview Dashboard – **Deeper Portfolio Insights**  
 ![Overview Dashboard](Screenshot2.png)  
 
-This dashboard answers: *“Where are the opportunities & risks?”*  
+The **Overview Dashboard** goes beyond KPIs and dives into **patterns, distributions, and borrower characteristics**. This dashboard is essential for analysts and portfolio managers who need to understand **where risks and opportunities exist**.  
 
-**Visual Insights:**  
-- 📅 **Monthly Trends (Line Chart):** Identifies seasonal spikes, lending cycles  
-- 🌍 **State-wise Lending (Map):** Detects regional demand concentration  
-- 🕒 **Loan Term Analysis (Donut):** 36 vs 60-month loan preferences  
-- 👔 **Employment Length (Bar):** Stability effect on approval & repayment  
-- 🎯 **Purpose Breakdown (Bar):** Debt consolidation, credit card, small business, etc.  
-- 🏡 **Home Ownership (Tree Map):** Rent vs Mortgage vs Own distribution  
+📊 **Visuals & Analysis:**  
+- **Monthly Trends (Line Chart):**  
+  - Tracks Applications, Funded Amounts, and Amounts Received over time  
+  - Reveals **seasonality, growth/decline patterns**, and loan demand cycles  
+  - Example Insight → July and January typically show **higher loan activity**  
+
+- **State-Wise Analysis (Map):**  
+  - Displays loan activity by borrower’s state  
+  - Identifies **geographic hotspots** for lending activity and repayment success  
+  - Supports **region-specific campaigns** and policy adjustments  
+
+- **Loan Term Analysis (Donut Chart):**  
+  - Compares **36-month vs 60-month loans**  
+  - 60-month loans usually carry **higher risk & higher default probability**  
+  - Banks can use this to **adjust pricing and approval strategies**  
+
+- **Employment Length (Bar Chart):**  
+  - Shows distribution of borrowers by years of employment  
+  - Long employment → **stable income & repayment reliability**  
+  - Short employment → **higher credit risk**  
+
+- **Purpose of Loan (Bar Chart):**  
+  - Breaks down loans by borrower intent (Debt Consolidation, Credit Card, Small Business, Home Improvement, etc.)  
+  - Identifies **top drivers of loan demand**  
+  - Helps in tailoring **specialized loan products** and campaigns  
+
+- **Home Ownership (Tree Map):**  
+  - Segments portfolio into Rent, Mortgage, and Own categories  
+  - Mortgage group dominates → **financially stable, asset-backed customers**  
+  - Renters → typically **higher risk profile**  
 
 📌 **Business Value:**  
-- Regional teams can **customize lending strategies**  
-- Marketing can focus on **high-demand loan purposes**  
-- Risk teams can track **unstable employment segments**  
+- Provides a **360° view** of portfolio segmentation  
+- Highlights **seasonal and geographic trends** in lending  
+- Correlates **borrower stability (employment, home ownership)** with repayment outcomes  
+- Identifies **high-risk pockets** (long-term loans, unstable jobs, renters)  
+- Enables banks to **design targeted marketing, risk policies, and loan products**  
+
+📌 **Sample Insights:**  
+- **Debt Consolidation & Credit Card loans** are the largest categories → focus area for product design  
+- 60-month loans show **higher default risk** → monitor closely and adjust interest rates accordingly  
+- **Mortgage-backed borrowers** are the most reliable → banks can expand lending in this group  
+- States with **lower loan activity** present untapped opportunities for market expansion  
 
 ---
 
