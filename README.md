@@ -51,8 +51,8 @@ I designed **3 dashboards** for a complete analysis:
 
 ---
 
-### 1️⃣ Summary Dashboard – **Loan Portfolio at a Glance**  
-![Summary Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Summary%20Dashboard.png)  
+### 1️⃣ SUMMARY Dashboard – **Loan Portfolio at a Glance**  
+![SUMMARY Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Summary%20Dashboard.png)  
 
 The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loan portfolio. It is designed for senior management, risk officers, and executives who need **instant clarity** on overall performance without going into granular details.  
 
@@ -88,8 +88,8 @@ The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loa
 
 ---
 
-### 2️⃣ Overview Dashboard – **Deeper Portfolio Insights**  
-![Overview Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Overview%20Dashboard.png)  
+### 2️⃣ OVERVIEW Dashboard – **Deeper Portfolio Insights**  
+![OVERVIEW Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Overview%20Dashboard.png)  
 
 The **Overview Dashboard** goes beyond KPIs and dives into **patterns, distributions, and borrower characteristics**. This dashboard is essential for analysts and portfolio managers who need to understand **where risks and opportunities exist**.  
 
@@ -139,8 +139,8 @@ The **Overview Dashboard** goes beyond KPIs and dives into **patterns, distribut
 
 ---
 
-### 3️⃣ Details Dashboard – **Loan-Level Drilldown**  
-![Details Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Details%20Dashboard.png)  
+### 3️⃣ DETAILS Dashboard – **Loan-Level Drilldown**  
+![DETAILS Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Details%20Dashboard.png)  
 
 The **Details Dashboard** provides a **comprehensive tabular view** of all loans in the dataset. It is designed to allow analysts, managers, and auditors to move beyond high-level KPIs and gain **granular visibility** into each loan record.  
 
