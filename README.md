@@ -109,10 +109,13 @@ Loan ID | Purpose | Home Ownership | Grade | Sub Grade | Issue Date | Loan Amoun
 - Raw dataset imported into **MS SQL Server**  
 - Tables structured and cleaned  
 
+---
+
 ### 🔹 Step 2: SQL Querying  
 KPIs calculated with SQL queries in **SSMS**  
 
-Examples:  
+Example Queries:  
+
 ```sql
 -- Total Applications
 SELECT COUNT(id) AS Total_Applications 
@@ -129,5 +132,4 @@ SELECT
  COUNT(id) AS Good_Loan_Percentage
 FROM bank_loan_data;
 
----
 
