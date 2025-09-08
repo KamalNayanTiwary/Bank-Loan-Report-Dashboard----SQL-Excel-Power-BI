@@ -58,8 +58,8 @@ The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loa
 
 📊 **Key Metrics Displayed (MTD vs PMTD):**  
 - **Total Loan Applications** → 38.6K overall, 4.3K this month (⏬ 6.9% MoM)  
-- **Total Funded Amount** → ¥435.8M overall, ¥54.0M this month (⏬ 13.0% MoM)  
-- **Total Amount Received** → ¥473.1M overall, ¥98.1M this month (⏬ 15.8% MoM)  
+- **Total Funded Amount** → ₹435.8M overall, ₹54.0M this month (⏬ 13.0% MoM)  
+- **Total Amount Received** → ₹473.1M overall, ₹98.1M this month (⏬ 15.8% MoM)  
 - **Average Interest Rate** → 12.0% portfolio average, 12.4% this month (⏫ 3.5% MoM)  
 - **Average DTI** → 13.3% portfolio average, 13.7% this month (⏫ 2.7% MoM)  
 
