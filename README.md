@@ -285,7 +285,7 @@ This **Bank Loan Report Dashboard** was built to:
 
 ---
 
-## 🎤 Project Presentation (PPT)  
+## 🎤 Bank Loan Report Presentation (PPT)  
 
 To complement the dashboard and SQL queries, I designed a **professional presentation** that explains the project in a structured way.  
 
@@ -326,7 +326,7 @@ The presentation highlights **three dashboards** designed in Power BI:
 - Useful for **interviews, client demos, or academic presentations**  
 - Clearly explains the **problem statement, methodology, dashboards, and insights**  
 
-➡️ **[View Full PPT Here](./Bank%20Loan%20PPT%20Power%20BI.pptx)**  
+➡️ **[View Full PPT Here](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Bank%20Loan%20PPT--KNT.pdf)**  
 
 ---
 
