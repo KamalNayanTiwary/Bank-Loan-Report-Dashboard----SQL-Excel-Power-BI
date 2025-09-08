@@ -266,14 +266,22 @@ The presentation highlights **three dashboards** designed in Power BI:
 
 ## 📄 Terminologies Used  
 
-Some critical fields in dataset:  
+Some key fields from the dataset and their purpose:  
 
-- **Loan ID** – Unique identifier per loan  
-- **Grade & Sub Grade** – Borrower risk classification  
-- **DTI** – Debt-to-Income ratio (borrower risk measure)  
-- **Purpose** – Reason for loan (Debt consolidation, Business, etc.)  
-- **Home Ownership** – RENT / MORTGAGE / OWN → stability indicator  
-- **Loan Status** – Fully Paid, Current, Charged-Off  
+- **Loan ID** → Unique identifier for each loan application.  
+- **Address State** → Borrower’s location, useful for regional analysis.  
+- **Employee Length** → Years of employment; stability indicator for repayment.  
+- **Grade & Sub Grade** → Credit risk classification; used to set loan terms.  
+- **Home Ownership** → RENT / MORTGAGE / OWN; reflects borrower stability.  
+- **Issue Date** → Loan origination date; used for maturity & tracking.  
+- **Loan Status** → Current state (Fully Paid, Current, Charged Off).  
+- **Purpose** → Reason for loan (Debt consolidation, Business, Education).  
+- **Term** → Duration of the loan (36/60 months).  
+- **Annual Income** → Borrower’s reported yearly income.  
+- **DTI (Debt-to-Income)** → Ratio of monthly debt to income; repayment capacity.  
+- **Interest Rate** → Annual cost of borrowing as a percentage.  
+- **Installment** → Fixed monthly repayment (principal + interest).  
+- **Loan Amount** → Total borrowed sum (principal).  
 
 ➡️ **[Full Terminologies Here](./Terminologies%20in%20Data.docx)**  
 
