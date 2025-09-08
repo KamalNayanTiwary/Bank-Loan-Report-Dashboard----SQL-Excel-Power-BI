@@ -140,7 +140,7 @@ The **Overview Dashboard** goes beyond KPIs and dives into **patterns, distribut
 ---
 
 ### 3️⃣ Details Dashboard – **Loan-Level Drilldown**  
-![Details Dashboard](Screenshot3.png)  
+![Details Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Details%20Dashboard.png)  
 
 The **Details Dashboard** provides a **comprehensive tabular view** of all loans in the dataset. It is designed to allow analysts, managers, and auditors to move beyond high-level KPIs and gain **granular visibility** into each loan record.  
 
