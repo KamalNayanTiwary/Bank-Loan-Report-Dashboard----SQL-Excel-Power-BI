@@ -52,7 +52,7 @@ I designed **3 dashboards** for a complete analysis:
 ---
 
 ### 1️⃣ Summary Dashboard – **Loan Portfolio at a Glance**  
-![Summary Dashboard](Screenshot1.png)  
+![Summary Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Summary%20Dashboard.png)  
 
 The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loan portfolio. It is designed for senior management, risk officers, and executives who need **instant clarity** on overall performance without going into granular details.  
 
