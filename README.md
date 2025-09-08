@@ -349,7 +349,7 @@ Some key fields from the dataset and their purpose:
 - **Installment** → Fixed monthly repayment (principal + interest).  
 - **Loan Amount** → Total borrowed sum (principal).  
 
-➡️ **[Full Terminologies Here](./Terminologies%20in%20Data.docx)**  
+➡️ **[Full Terminologies Here](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Terminologies%20%20in%20Data--KNT.pdf)**  
 
 ---
 
