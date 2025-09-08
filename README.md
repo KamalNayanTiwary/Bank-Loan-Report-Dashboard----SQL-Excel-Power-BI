@@ -131,5 +131,187 @@ SELECT
  (COUNT(CASE WHEN loan_status IN ('Fully Paid','Current') THEN id END)*100.0)/
  COUNT(id) AS Good_Loan_Percentage
 FROM bank_loan_data;
+```
+➡️ **[Full SQL Queries Here](./Query%20Doc.docx)**  
+
+---
+
+## 🔹 Step 3: Power BI Integration  
+
+- Data connected via **Direct Query** for real-time sync  
+- Relationships modeled  
+- DAX applied where necessary  
+
+---
+
+## 🔹 Step 4: Dashboard Development  
+
+- KPI cards  
+- Line charts  
+- Bar charts  
+- Maps  
+- Donut charts  
+- Tree maps  
+- Filters & slicers added for interactivity  
+
+---
+
+## 🔹 Step 5: Validation  
+
+- Cross-checked SQL outputs with Excel summaries  
+- Ensured KPI consistency  
+
+---
+
+## 🚨 Business Problems Solved  
+
+- 📉 Identified declining loan activity (**-6.9% MoM applications**)  
+- ✅ Confirmed Good Loan dominance, but flagged risks in Bad Loans  
+- 🌍 Highlighted geographic variations → Targeted regional marketing  
+- 👔 Employment data → Stable jobs = stronger repayment  
+- 🏡 Home ownership trends → Mortgage group dominates → stable customers  
+- 🎯 Debt Consolidation & Credit Card loans = primary loan purpose  
+
+---
+
+## 🔎 Insights & Recommendations  
+
+### 📌 Marketing Strategy  
+- Focus campaigns in high-demand states  
+- Promote loan products for top purposes (Debt Consolidation, Credit Card)  
+
+### 📌 Risk Management  
+- Stricter checks for unstable employment segments  
+- Monitor Bad Loan borrowers → enhance collection strategy  
+
+### 📌 Customer Targeting  
+- Offer refinancing to Good Loan borrowers (high repayment track record)  
+- Customize offers by Home Ownership status  
+
+### 📌 Product Strategy  
+- 60-month loans carry higher risk → monitor carefully  
+- Review underperforming segments → optimize portfolio  
+
+---
+
+## 📄 Bank Loan Report  
+
+Bank loans are a crucial financial tool that enable individuals and businesses to achieve their goals and manage financial needs. However, it is equally important for banks to **track, analyze, and monitor loans** to ensure profitability and minimize risks.  
+
+This **Bank Loan Report Dashboard** was built to:  
+- Monitor overall loan applications and repayments  
+- Track **Funded Amounts, Amounts Received, Interest Rates, and DTI**  
+- Compare **Month-to-Date (MTD) vs Previous Month-to-Date (PMTD)** performance  
+- Analyze **Good vs Bad Loans** for risk assessment  
+- Provide segmentation by **State, Loan Purpose, Term, Employment Length, and Home Ownership**  
+
+### 🔑 Why Banks Analyze Loan Data?  
+- **Risk Assessment** → Evaluate borrower creditworthiness and predict defaults  
+- **Decision-Making** → Approve/deny loans based on data-driven insights  
+- **Portfolio Management** → Monitor loan performance & optimize terms  
+- **Fraud Detection** → Detect unusual loan activity and prevent losses  
+- **Regulatory Compliance** → Generate reports for KYC, HMDA, and other compliance needs  
+- **Customer Insights** → Understand borrower behavior and improve loan products  
+- **Profitability Analysis** → Assess margins from interest income vs defaults  
+📊 By consolidating these insights into **interactive Power BI dashboards**, banks can make faster, smarter, and data-driven lending decisions.  
+
+➡️ **[Read Full Report Here](./BANK%20LOAN%20REPORT.docx)**  
+
+---
+
+## 🎤 Project Presentation (PPT)  
+
+To complement the dashboard and SQL queries, I designed a **professional presentation** that explains the project in a structured way.  
+
+The PPT is divided into two main parts:  
+
+### 🔹 Part 1: MS SQL Server (Backend Analysis)  
+- Imported raw bank loan dataset into **SQL Server**  
+- Created **database & tables** for structured storage  
+- Wrote **SQL queries** to calculate KPIs:  
+  - Total Applications, Funded Amount, Amount Received  
+  - Average Interest Rate & Average DTI  
+  - Good Loan vs Bad Loan (Applications, Funded Amount, Amount Received)  
+- Compared SQL outputs with **Power BI & Excel** for validation  
+
+### 🔹 Part 2: Power BI Dashboards (Visualization)  
+The presentation highlights **three dashboards** designed in Power BI:  
+
+1. **Summary Dashboard**  
+   - KPIs: Applications, Funded Amount, Amount Received (MTD vs PMTD)  
+   - Good vs Bad Loan KPIs  
+   - Loan Status Grid with breakdown of Loan Count, Funded Amount, Amount Received, Interest Rate, and DTI  
+
+2. **Overview Dashboard**  
+   - Monthly Trends (line chart for seasonality)  
+   - Regional Analysis (map by state)  
+   - Loan Term Analysis (donut chart)  
+   - Employment Length Analysis (bar chart)  
+   - Loan Purpose Breakdown (bar chart)  
+   - Home Ownership Analysis (tree map)  
+
+3. **Details Dashboard**  
+   - Loan-level table with filters (State, Loan Grade, Loan Status)  
+   - Columns: Loan ID, Purpose, Grade, Sub-Grade, Term, Funded Amount, Interest Rate, Installments, Amount Received  
+   - Helps with **drill-down analysis** and borrower profiling  
+
+### 🎯 Purpose of the PPT  
+- Acts as a **step-by-step walkthrough** of the entire project  
+- Useful for **interviews, client demos, or academic presentations**  
+- Clearly explains the **problem statement, methodology, dashboards, and insights**  
+
+➡️ **[View Full PPT Here](./Bank%20Loan%20PPT%20Power%20BI.pptx)**  
+
+---
+
+## 📄 Terminologies Used  
+
+Some critical fields in dataset:  
+
+- **Loan ID** – Unique identifier per loan  
+- **Grade & Sub Grade** – Borrower risk classification  
+- **DTI** – Debt-to-Income ratio (borrower risk measure)  
+- **Purpose** – Reason for loan (Debt consolidation, Business, etc.)  
+- **Home Ownership** – RENT / MORTGAGE / OWN → stability indicator  
+- **Loan Status** – Fully Paid, Current, Charged-Off  
+
+➡️ **[Full Terminologies Here](./Terminologies%20in%20Data.docx)**  
+
+---
+
+## ✅ Key Learnings  
+
+- SQL is critical for **KPI accuracy** before dashboarding  
+- Power BI enables **executive + detailed views** in one project  
+- Data validation across SQL, Power BI, and Excel ensures **consistency**  
+- Business insights are only as strong as the **data cleaning & preparation**  
+
+---
+
+## 🚀 Future Improvements  
+
+- Add **predictive analytics (ML models)** → Predict default risk  
+- Automate **ETL pipeline** from SQL to Power BI  
+- Integrate **Real-Time Power BI Service alerts** for KPI changes  
+- Expand dataset → Include **income ranges, FICO scores, and demographics**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **MS SQL Server** – Data storage & processing  
+- **SSMS** – Query development  
+- **Microsoft Power BI** – Visualization & interactivity  
+- **Excel** – Cross-validation & backup analysis  
+
+---
+
+## 👨‍💻 Author & Contact  
+
+**Kamal Nayan Tiwary**  
+*Data Analyst*  
+
+📧 Email: **kamalnayantiwary73@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
 
 
