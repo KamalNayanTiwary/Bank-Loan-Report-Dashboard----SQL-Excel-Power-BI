@@ -89,7 +89,7 @@ The **Summary Dashboard** acts as the **executive snapshot** of the bank’s loa
 ---
 
 ### 2️⃣ Overview Dashboard – **Deeper Portfolio Insights**  
-![Overview Dashboard](Screenshot2.png)  
+![Overview Dashboard](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/Overview%20Dashboard.png)  
 
 The **Overview Dashboard** goes beyond KPIs and dives into **patterns, distributions, and borrower characteristics**. This dashboard is essential for analysts and portfolio managers who need to understand **where risks and opportunities exist**.  
 
