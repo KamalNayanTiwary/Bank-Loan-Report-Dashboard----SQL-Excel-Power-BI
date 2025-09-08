@@ -27,8 +27,6 @@ I created **three interactive dashboards** in Power BI:
 - **Overview Dashboard** – Monthly trends, regional performance (state), term analysis, purpose of loans, employment length, and home ownership insights  
 - **Details Dashboard** – Loan-level data table with filters (State, Grade, Loan Status) for drill-down analysis  
 
-⚠️ **Note:** The dashboard size is comparatively larger than usual. For the best experience, reduce the view to **70%** in Power BI Service — this way you can clearly see all visuals and enjoy exploring the dashboard.  
-
 🔗 You can explore it **Live** here: [View Dashboard](#)  
 
 ---
