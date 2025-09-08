@@ -329,7 +329,7 @@ Some key fields from the dataset and their purpose:
 **Kamal Nayan Tiwary**  
 *Data Analyst*  
 
-📧 Email: **kamalnayantiwary73@gmail.com**  
+📧 **kamalnayantiwary73@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
 
 
