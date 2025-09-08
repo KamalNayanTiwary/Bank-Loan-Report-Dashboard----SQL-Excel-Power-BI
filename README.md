@@ -198,7 +198,7 @@ SELECT
  COUNT(id) AS Good_Loan_Percentage
 FROM bank_loan_data;
 ```
-➡️ **[Full SQL Queries Here](./Query%20Doc.docx)**  
+➡️ **[Full SQL Queries Here](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/SQL_Query--KNT.pdf)**  
 
 ---
 
