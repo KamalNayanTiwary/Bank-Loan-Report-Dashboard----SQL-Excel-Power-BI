@@ -87,7 +87,8 @@ This dashboard answers: *“Where are the opportunities & risks?”*
 
 ---
 
-### 3️⃣ Detailed Dashboard – **Loan-Level Drilldown**  
+### 3️⃣ Details Dashboard – **Loan-Level Drilldown**
+![Details  Dashboard](Screenshot1.png)  
 
 A **tabular view** with filters for:  
 - State, Loan Grade, Good vs Bad Loan  
