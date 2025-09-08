@@ -383,7 +383,7 @@ Some key fields from the dataset and their purpose:
 ## 👨‍💻 Author & Contact  
 
 **Kamal Nayan Tiwary**  
-*Data Analyst*  
+**Data Analyst**
 
 📧 **kamalnayantiwary73@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
