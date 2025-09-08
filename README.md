@@ -25,7 +25,7 @@ The project provides **actionable insights** to banks and financial institutions
 - **Overview Dashboard** – Monthly trends, regional performance (state), term analysis, purpose of loans, employment length, and home ownership insights  
 - **Details Dashboard** – Loan-level data table with filters (State, Grade, Loan Status) for drill-down analysis  
 
-🔗 You can explore it **Live** here: [View Dashboard](#)  
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQzM2RjYmYtMWIxOC00OGIwLTg1ZTQtMjcxMmIwZDhiN2U4IiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)  
 
 ---
 
