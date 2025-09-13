@@ -281,8 +281,7 @@ This **Bank Loan Report Dashboard** was built to:
 - **Profitability Analysis** → Assess margins from interest income vs defaults  
 📊 By consolidating these insights into **interactive Power BI dashboards**, banks can make faster, smarter, and data-driven lending decisions.  
 
-➡️ **[Read Full Report Here](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/BANK%20LOAN%20REPORT--KNT.pdf)**   
-
+➡️ **[Read Full Report Here](https://github.com/KamalNayanTiwary/Bank-Loan-Report-Analysis----SQL-and-Power-BI/blob/main/BANK%20LOAN%20REPORT--KNT.pdf)** 
 ---
 
 ## 🎤 Bank Loan Report Presentation (PPT)  
