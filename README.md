@@ -8,7 +8,7 @@ To build a **comprehensive Bank Loan Analysis Dashboard in Power BI**, powered b
 - Interest Rates & Debt-to-Income Ratios (DTI)  
 - Good vs Bad Loan Performance  
 - Loan Status Distribution  
-- Borrower Segmentation (State, Term, Purpose, Employment, Home Ownership)  
+- Borrower Segmentation (State, Term, Purpose, Employment, Home Ownership)   
 
 The project provides **actionable insights** to banks and financial institutions, enabling them to:  
 
